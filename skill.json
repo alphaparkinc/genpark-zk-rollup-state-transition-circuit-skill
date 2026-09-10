@@ -1,0 +1,15 @@
+{
+  "name": "genpark-zk-rollup-state-transition-circuit-skill",
+  "version": "1.0.0",
+  "description": "ZK-Rollup account state transition validation circuit executing batch transfer proofs, balance validity, and state root commitment transitions.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "zk-rollup",
+    "state-transition",
+    "layer2",
+    "blockchain-scaling"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
